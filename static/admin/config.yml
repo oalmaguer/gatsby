@@ -1,7 +1,7 @@
 backend:
   name: oalmaguer
   # change repo to your git repository url
-  repo: oalmaguer/gatsby
+  repo: https://github.com/oalmaguer/gatsby.git
 
 media_folder: static/assets
 public_folder: /assets
